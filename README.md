@@ -176,6 +176,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Discover your next favorite movie or show with InfoMod** 🎬
-```
-
-This README is specifically tailored for your entertainment information website and includes sections relevant to movie/TV show applications, TMDB API integration, and the features mentioned in your project description. The structure follows industry standards while highlighting the unique aspects of an entertainment information platform.[1][2][3][4][5][6]
